@@ -1,0 +1,9 @@
+1 - Sistema Desktop
+2 - Sistema Web
+3 - Desenvolvedor Front-End
+4 - Frameworks
+5 - Desenvolverdor Back-End
+6 - Desenvolverdor Full Stack
+7 - (QA) Quality Assurance
+8 - Clound
+9 - Desenvolvimento Mobile
