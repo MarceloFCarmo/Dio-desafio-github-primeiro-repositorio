@@ -1,0 +1,17 @@
+Cronologia para verificação e adição de informação no repositorio do Github
+
+1 - Comando (Git Status) - ele vai verificar o que de fato foi acrescentado ao Git, a 
+plataforma irá retornar com a informação adicionada nela.
+
+2 - Caso realemte foi adicionado alguma informação, devemos realizar o comando (git add .)
+ele estará acrescentando a informação no GIT.
+
+3 - Após está adição, realizar o comando (Git Commit - m "" "") nele podemos sinalizar
+em forma de mensagem o que de fato ocorreu no tramite.
+
+4 - Em seguida poderá ser utilizado novamente o comando (Git status) onde confirmará que
+foi realizado a acão feita e pedirá para realizar um comando de "Push" em seguida.
+
+5 - Realizar o comendo (Git push origin main) onde ele estará concretizando o upload ou
+atualização da tarefa feita junto ao repositório, após isso realizar um F5 junto 
+ao local no Github e verificar se a informação foi realizada.
